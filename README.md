@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="AEO: Answer Engine Optimization strategy for ry-ops.dev" width="100%"></p>
+
 # Claude Code Implementation Prompt: AEO Content Strategy for ry-ops.dev
 
 ## Project Overview
@@ -545,3 +547,8 @@ Track these KPIs to measure AEO effectiveness:
 -----
 
 *Generated for ry-ops.dev AEO implementation. Adapt and iterate based on results.*
+
+<!-- org-footer -->
+---
+
+<p align="center"><sub>Part of <a href="https://github.com/ry-ops">ry-ops</a> · building the pipes between infrastructure, automation, and observability · built by <a href="https://github.com/ry-ops">ry-ops</a></sub></p>
