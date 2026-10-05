@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" role="img" aria-labelledby="t d">
+  <title id="t">The AEO strategy in six phases</title>
+  <desc id="d">Six phases: technical foundation (llms.txt and JSON-LD schema), content structure (question-led posts and FAQs), content audit, technical SEO (meta tags, sitemap, RSS), measurement (tracking AI citations and traffic), and iterate on a weekly cadence.</desc>
+  <style>
+    text { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; fill:#e6ebf5; }
+    .muted { fill:#8b96ad; }
+    @keyframes p0 { 0%,3.33% { opacity:.25; } 6.67%,95% { opacity:1; } 100% { opacity:.25; } } .p0 { animation:p0 12.0s infinite; }
+    @keyframes p1 { 0%,7.50% { opacity:.25; } 10.83%,95% { opacity:1; } 100% { opacity:.25; } } .p1 { animation:p1 12.0s infinite; }
+    @keyframes p2 { 0%,11.67% { opacity:.25; } 15.00%,95% { opacity:1; } 100% { opacity:.25; } } .p2 { animation:p2 12.0s infinite; }
+    @keyframes p3 { 0%,15.83% { opacity:.25; } 19.17%,95% { opacity:1; } 100% { opacity:.25; } } .p3 { animation:p3 12.0s infinite; }
+    @keyframes p4 { 0%,20.00% { opacity:.25; } 23.33%,95% { opacity:1; } 100% { opacity:.25; } } .p4 { animation:p4 12.0s infinite; }
+    @keyframes p5 { 0%,24.17% { opacity:.25; } 27.50%,95% { opacity:1; } 100% { opacity:.25; } } .p5 { animation:p5 12.0s infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; opacity:1 !important; } }
+  </style>
+  <rect width="960" height="420" rx="20" fill="#0f1420"/>
+  <text x="30" y="56" font-size="28" font-weight="800">The strategy, in six phases</text>
+  <text x="30" y="82" font-size="15" class="muted">From machine-readable foundations to content, measurement and a repeatable cadence.</text>
+  <g class="p0">
+      <rect x="30" y="130" width="280" height="116" rx="14" fill="#10a37f" fill-opacity=".08" stroke="#10a37f" stroke-opacity=".6"/>
+      <circle cx="64" cy="170" r="20" fill="#10a37f"/><text x="64" y="177" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">1</text>
+      <text x="96" y="166" font-size="16" font-weight="700">Technical Foundation</text>
+      <text x="96" y="190" font-size="12" class="muted">llms.txt · JSON-LD schema</text>
+    </g><g class="p1">
+      <rect x="326" y="130" width="280" height="116" rx="14" fill="#20b8cd" fill-opacity=".08" stroke="#20b8cd" stroke-opacity=".6"/>
+      <circle cx="360" cy="170" r="20" fill="#20b8cd"/><text x="360" y="177" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">2</text>
+      <text x="392" y="166" font-size="16" font-weight="700">Content Structure</text>
+      <text x="392" y="190" font-size="12" class="muted">question-led posts · FAQs</text>
+    </g><g class="p2">
+      <rect x="622" y="130" width="280" height="116" rx="14" fill="#4285f4" fill-opacity=".08" stroke="#4285f4" stroke-opacity=".6"/>
+      <circle cx="656" cy="170" r="20" fill="#4285f4"/><text x="656" y="177" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">3</text>
+      <text x="688" y="166" font-size="16" font-weight="700">Content Audit</text>
+      <text x="688" y="190" font-size="12" class="muted">optimize what exists, fill gaps</text>
+    </g><g class="p3">
+      <rect x="30" y="266" width="280" height="116" rx="14" fill="#b58cff" fill-opacity=".08" stroke="#b58cff" stroke-opacity=".6"/>
+      <circle cx="64" cy="306" r="20" fill="#b58cff"/><text x="64" y="313" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">4</text>
+      <text x="96" y="302" font-size="16" font-weight="700">Technical SEO</text>
+      <text x="96" y="326" font-size="12" class="muted">meta tags · sitemap · RSS</text>
+    </g><g class="p4">
+      <rect x="326" y="266" width="280" height="116" rx="14" fill="#ff5c8a" fill-opacity=".08" stroke="#ff5c8a" stroke-opacity=".6"/>
+      <circle cx="360" cy="306" r="20" fill="#ff5c8a"/><text x="360" y="313" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">5</text>
+      <text x="392" y="302" font-size="16" font-weight="700">Measurement</text>
+      <text x="392" y="326" font-size="12" class="muted">track AI citations &amp; traffic</text>
+    </g><g class="p5">
+      <rect x="622" y="266" width="280" height="116" rx="14" fill="#ffb02e" fill-opacity=".08" stroke="#ffb02e" stroke-opacity=".6"/>
+      <circle cx="656" cy="306" r="20" fill="#ffb02e"/><text x="656" y="313" text-anchor="middle" font-size="18" font-weight="800" fill="#0f1420">6</text>
+      <text x="688" y="302" font-size="16" font-weight="700">Iterate</text>
+      <text x="688" y="326" font-size="12" class="muted">checklist · weekly cadence</text>
+    </g>
+</svg>
