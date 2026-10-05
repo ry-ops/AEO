@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" role="img" aria-labelledby="t d">
+  <title id="t">AEO: be the answer AI engines cite</title>
+  <desc id="d">Someone asks an AI answer engine how to run an MCP server for Proxmox. ChatGPT, Perplexity, Claude and Google AI Overviews answer, and the answer cites ry-ops.dev. Answer Engine Optimization structures content so AI systems quote it accurately.</desc>
+  <defs><linearGradient id="title" x1="0" x2="1"><stop offset="0" stop-color="#10a37f"/><stop offset=".5" stop-color="#20b8cd"/><stop offset="1" stop-color="#4285f4"/></linearGradient></defs>
+  <style>
+    text { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; fill:#e6ebf5; }
+    .muted { fill:#8b96ad; } .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    @keyframes q { 0%,3.00% { opacity:0; transform:translateY(8px); } 6.50%,94.00% { opacity:1; transform:translateY(0); } 97.00%,100% { opacity:0 } } .q { animation:q 10.0s infinite; }
+    @keyframes e0 { 0%,16.00% { opacity:0; } 19.50%,94.00% { opacity:1; } 97.00%,100% { opacity:0 } } .e0 { animation:e0 10.0s infinite; }
+    @keyframes e1 { 0%,19.00% { opacity:0; } 22.50%,94.00% { opacity:1; } 97.00%,100% { opacity:0 } } .e1 { animation:e1 10.0s infinite; }
+    @keyframes e2 { 0%,22.00% { opacity:0; } 25.50%,94.00% { opacity:1; } 97.00%,100% { opacity:0 } } .e2 { animation:e2 10.0s infinite; }
+    @keyframes e3 { 0%,25.00% { opacity:0; } 28.50%,94.00% { opacity:1; } 97.00%,100% { opacity:0 } } .e3 { animation:e3 10.0s infinite; }
+    @keyframes cite { 0%,56.00% { opacity:0; transform:scale(.9); } 59.50%,94.00% { opacity:1; transform:scale(1); } 97.00%,100% { opacity:0 } } .cite { animation:cite 10.0s infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
+  </style>
+  <rect width="960" height="420" rx="20" fill="#0f1420"/>
+  <text x="40" y="60" font-size="38" font-weight="800" style="fill:url(#title)">Answer Engine Optimization</text>
+  <text x="42" y="90" font-size="16" class="muted">Don't just rank. <tspan style="fill:#e6ebf5" font-weight="700">Be the answer</tspan> AI engines cite.</text>
+  <line class="e0" x1="300" y1="250" x2="368" y2="150" stroke="#10a37f" stroke-opacity=".4" stroke-width="2"/><line class="cite" x1="518" y1="150" x2="600" y2="250" stroke="#10a37f" stroke-opacity=".4" stroke-width="2"/><line class="e1" x1="300" y1="250" x2="368" y2="222" stroke="#20b8cd" stroke-opacity=".4" stroke-width="2"/><line class="cite" x1="518" y1="222" x2="600" y2="250" stroke="#20b8cd" stroke-opacity=".4" stroke-width="2"/><line class="e2" x1="300" y1="250" x2="368" y2="294" stroke="#d97757" stroke-opacity=".4" stroke-width="2"/><line class="cite" x1="518" y1="294" x2="600" y2="250" stroke="#d97757" stroke-opacity=".4" stroke-width="2"/><line class="e3" x1="300" y1="250" x2="368" y2="366" stroke="#4285f4" stroke-opacity=".4" stroke-width="2"/><line class="cite" x1="518" y1="366" x2="600" y2="250" stroke="#4285f4" stroke-opacity=".4" stroke-width="2"/>
+  <g class="q"><rect x="40" y="222" width="260" height="56" rx="14" fill="#2a3550"/>
+    <text x="56" y="246" font-size="13">"How do I run an MCP server</text>
+    <text x="56" y="266" font-size="13">for Proxmox?"</text></g>
+  <text x="170" y="300" text-anchor="middle" font-size="11" class="muted">a question</text>
+  <g class="e0"><rect x="368" y="132" width="150" height="36" rx="9" fill="#161d2b" stroke="#10a37f"/><circle cx="392" cy="150" r="6" fill="#10a37f"/><text x="406" y="155" font-size="12.5" font-weight="600">ChatGPT</text></g><g class="e1"><rect x="368" y="204" width="150" height="36" rx="9" fill="#161d2b" stroke="#20b8cd"/><circle cx="392" cy="222" r="6" fill="#20b8cd"/><text x="406" y="227" font-size="12.5" font-weight="600">Perplexity</text></g><g class="e2"><rect x="368" y="276" width="150" height="36" rx="9" fill="#161d2b" stroke="#d97757"/><circle cx="392" cy="294" r="6" fill="#d97757"/><text x="406" y="299" font-size="12.5" font-weight="600">Claude</text></g><g class="e3"><rect x="368" y="348" width="150" height="36" rx="9" fill="#161d2b" stroke="#4285f4"/><circle cx="392" cy="366" r="6" fill="#4285f4"/><text x="406" y="371" font-size="12.5" font-weight="600">Google AI</text></g>
+  <g class="cite"><rect x="600" y="196" width="320" height="112" rx="14" fill="#10251c" stroke="#10a37f"/>
+    <text x="620" y="222" font-size="11" font-weight="700" class="muted" letter-spacing=".08em">THE AI ANSWER</text>
+    <text x="620" y="246" font-size="13">Use the proxmox-mcp-server. First…</text>
+    <rect x="620" y="282" width="282" height="18" rx="6" fill="#10a37f" fill-opacity=".18"/>
+    <text x="628" y="295" font-size="11.5" class="mono" style="fill:#5fe0b0">Source: Ryan Dahlberg · ry-ops.dev</text></g>
+  <text x="760" y="328" text-anchor="middle" font-size="11" class="muted">your content, cited</text>
+</svg>

@@ -1,4 +1,6 @@
-<p align="center"><img src="docs/banner.svg" alt="AEO: Answer Engine Optimization strategy for ry-ops.dev" width="100%"></p>
+<p align="center">
+  <img src="docs/hero.svg" width="100%" alt="A question posed to ChatGPT, Perplexity, Claude and Google AI; the answer cites ry-ops.dev. Answer Engine Optimization: be the answer, not just a ranking.">
+</p>
 
 # Claude Code Implementation Prompt: AEO Content Strategy for ry-ops.dev
 
@@ -17,6 +19,14 @@ AEO (Answer Engine Optimization) focuses on structuring content so AI systems ca
 > “8% of total new signups now come from AI, compared to just 2% in October 2024… traffic that does come through from AI searches tends to convert at higher rates.”
 
 -----
+
+## The six phases
+
+<p align="center">
+  <img src="docs/phases.svg" width="100%" alt="Six phases: technical foundation, content structure, content audit, technical SEO, measurement, and iterate.">
+</p>
+
+The rest of this document is the full implementation playbook for each phase.
 
 ## Phase 1: Technical Foundation
 
